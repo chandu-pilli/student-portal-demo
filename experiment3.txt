@@ -1,0 +1,6 @@
+student name: chandu
+roll no:42
+mail:1234567@gmail.com
+phon no:1234567890
+
+
